@@ -1,4 +1,4 @@
-FuiBonacci/FuiBonacci/[Bb]in/
-FuiBonacci/FuiBonacci/[Oo]bj/
-FuiBonacci/FuiBonacci/*.csproj
+FuiBonacci/FuiBonacci/bin/
+FuiBonacci/FuiBonacci/obj/
+FuiBonacci/FuiBonacci/%.csproj
 
