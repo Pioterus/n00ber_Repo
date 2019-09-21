@@ -26,6 +26,7 @@ namespace FuiBonacci
                     a = b;
                     b = n;
                     Console.WriteLine("{0} wyraz ciągu Fibonacciego = {1}", i + 1, n);
+                //sfsfsf
                 }
             }
         }
