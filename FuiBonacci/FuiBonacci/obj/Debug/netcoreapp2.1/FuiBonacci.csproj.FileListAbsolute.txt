@@ -1,0 +1,11 @@
+D:\Users\piotr\Documents\n00ber_Repo\FuiBonacci\FuiBonacci\bin\Debug\netcoreapp2.1\FuiBonacci.deps.json
+D:\Users\piotr\Documents\n00ber_Repo\FuiBonacci\FuiBonacci\bin\Debug\netcoreapp2.1\FuiBonacci.runtimeconfig.json
+D:\Users\piotr\Documents\n00ber_Repo\FuiBonacci\FuiBonacci\bin\Debug\netcoreapp2.1\FuiBonacci.runtimeconfig.dev.json
+D:\Users\piotr\Documents\n00ber_Repo\FuiBonacci\FuiBonacci\bin\Debug\netcoreapp2.1\FuiBonacci.dll
+D:\Users\piotr\Documents\n00ber_Repo\FuiBonacci\FuiBonacci\bin\Debug\netcoreapp2.1\FuiBonacci.pdb
+D:\Users\piotr\Documents\n00ber_Repo\FuiBonacci\FuiBonacci\obj\Debug\netcoreapp2.1\FuiBonacci.csprojAssemblyReference.cache
+D:\Users\piotr\Documents\n00ber_Repo\FuiBonacci\FuiBonacci\obj\Debug\netcoreapp2.1\FuiBonacci.csproj.CoreCompileInputs.cache
+D:\Users\piotr\Documents\n00ber_Repo\FuiBonacci\FuiBonacci\obj\Debug\netcoreapp2.1\FuiBonacci.AssemblyInfoInputs.cache
+D:\Users\piotr\Documents\n00ber_Repo\FuiBonacci\FuiBonacci\obj\Debug\netcoreapp2.1\FuiBonacci.AssemblyInfo.cs
+D:\Users\piotr\Documents\n00ber_Repo\FuiBonacci\FuiBonacci\obj\Debug\netcoreapp2.1\FuiBonacci.dll
+D:\Users\piotr\Documents\n00ber_Repo\FuiBonacci\FuiBonacci\obj\Debug\netcoreapp2.1\FuiBonacci.pdb
