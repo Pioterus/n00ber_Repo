@@ -45,6 +45,7 @@ Static void Main()
         // login was successful
         //nic nic nic_methodA()
         //methodB()
+        //methodC()
         Application.Run(new Mainform());
     }
 }
