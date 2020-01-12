@@ -43,6 +43,7 @@ Static void Main()
     if (result == DialogResult.OK)
     {
         // login was successful
+        //nic nic nic
         Application.Run(new Mainform());
     }
 }
